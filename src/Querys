@@ -9,3 +9,55 @@
     "code" : 1,
     "msj" : "Lo sentimos, ha ocurrido un error al realizar la operación."
 }
+
+{
+    "lnge" : "es",
+    "code" : 2,
+    "msj" : "Lo sentimos, el numero de celulat es incorrecto."
+}
+
+{
+    "lnge" : "es",
+    "code" : 3,
+    "msj" : "Lo sentimos, la direccion del cliente es invalida."
+}
+
+{
+    "lnge" : "es",
+    "code" : 4,
+    "msj" : "Lo sentimos, el numero de casa o negocio es invalido."
+}
+
+{
+    "lnge" : "es",
+    "code" : 5,
+    "msj" : "Lo sentimos, el cliente no se encuentra registrado, favor de registrarlo."
+}
+
+{
+    "lnge" : "es",
+    "code" : 6,
+    "msj" : "Lo sentimos, ha ocurrido un error al generar la remsion, contacte al administrador."
+}
+
+{
+    "lnge" : "es",
+    "code" : 7,
+    "msj" : "Lo sentimos, la lista de productos vendidos viene vacia, reintentalo de nuevo."
+}
+
+{
+    "lnge" : "es",
+    "code" : 8,
+    "msj" : "Lo sentimos, no cuenta con productos registrados, favor de registarlos."
+}
+
+{
+    "lnge" : "es",
+    "code" : 9,
+    "msj" : "Lo sentimos, no se encontro el producto deseado, verifique que este registrado."
+}
+
+
+
+
