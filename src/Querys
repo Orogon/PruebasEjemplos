@@ -1,0 +1,11 @@
+{
+    "lnge" : "es",
+    "code" : 0,
+    "msj" : "La operacion se ha realizado exitosamente."
+}
+
+{
+    "lnge" : "es",
+    "code" : 1,
+    "msj" : "Lo sentimos, ha ocurrido un error al realizar la operación."
+}
